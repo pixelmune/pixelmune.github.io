@@ -9,11 +9,11 @@ name: Pixelmune
 description: Web tinkerer, and video game fanatic.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/pixelmune-icon.png
+avatar: https://raw.githubusercontent.com/pixelmune/pixelmune.github.io/master/images/pixelmune-icon.png
 
 #
 # Flags below are optional
-#
+#s
 
 # Includes an icon in the footer for each username you enter
 footer-links:
